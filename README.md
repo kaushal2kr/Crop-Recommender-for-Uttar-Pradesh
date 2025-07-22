@@ -11,7 +11,7 @@ User Interface: Built with Gradio for an easy-to-use web interface.
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/crop-recommender.git
+Clone the repository:git clone https://github.com/your-mental2devil/crop-recommender.git
 cd crop-recommender
 
 
